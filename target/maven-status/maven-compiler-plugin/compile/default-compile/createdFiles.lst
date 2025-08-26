@@ -3,8 +3,10 @@ com\pattern\designpattern\MilkDecorator.class
 com\pattern\designpattern\PrototypePatternDemo.class
 com\pattern\designpattern\WinFactory.class
 com\pattern\designpattern\Coffee.class
+com\pattern\designpattern\SoundSystem.class
 com\pattern\designpattern\SugarDecorator.class
 com\pattern\designpattern\FactoryPatternDemo.class
+com\pattern\designpattern\HomeTheaterFacade.class
 com\pattern\designpattern\MacCheckbox.class
 com\pattern\designpattern\Prototype.class
 com\pattern\designpattern\Square.class
@@ -20,12 +22,15 @@ com\pattern\designpattern\Rectangle.class
 com\pattern\designpattern\Burger.class
 com\pattern\designpattern\SingletonPatternDemo.class
 com\pattern\designpattern\Student.class
+com\pattern\designpattern\DVDPlayer.class
 com\pattern\designpattern\Singleton.class
 com\pattern\designpattern\OldCharger.class
 com\pattern\designpattern\ShapeFactory.class
 com\pattern\designpattern\GUIFactory.class
+com\pattern\designpattern\Projector.class
 com\pattern\designpattern\AdapterPattern.class
 com\pattern\designpattern\BuilderPatternDemo.class
+com\pattern\designpattern\FacadePattern.class
 com\pattern\designpattern\Circle.class
 com\pattern\designpattern\Button.class
 com\pattern\designpattern\ChargerAdapter.class
