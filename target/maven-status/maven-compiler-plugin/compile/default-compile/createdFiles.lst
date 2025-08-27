@@ -1,8 +1,11 @@
+com\pattern\designpattern\FileComponent.class
 com\pattern\designpattern\ProxyInternet.class
 com\pattern\designpattern\SoundSystem.class
 com\pattern\designpattern\FactoryPatternDemo.class
 com\pattern\designpattern\Internet.class
+com\pattern\designpattern\Folder.class
 com\pattern\designpattern\Square.class
+com\pattern\designpattern\CompositePatternDemo.class
 com\pattern\designpattern\Burger$BurgerBuilder.class
 com\pattern\designpattern\CoffeeDecorator.class
 com\pattern\designpattern\WinButton.class
@@ -44,6 +47,7 @@ com\pattern\designpattern\AdapterPattern.class
 com\pattern\designpattern\BuilderPatternDemo.class
 com\pattern\designpattern\FacadePattern.class
 com\pattern\designpattern\Button.class
+com\pattern\designpattern\File.class
 com\pattern\designpattern\WinCheckbox.class
 com\pattern\designpattern\MacButton.class
 com\pattern\designpattern\Shape.class
