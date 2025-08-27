@@ -24,6 +24,7 @@ class TV implements Device{
 }
 
 class Radio implements Device{
+    
     @Override
     public void turnOn(){
         System.out.println("Radio is on");

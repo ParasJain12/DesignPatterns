@@ -9,24 +9,32 @@ interface Checkbox{
 }
 
 class WinButton implements Button{
+    
+    @Override
     public void click(){
         System.out.println("Windows Button clicked");
     }
 }
 
 class WinCheckbox implements Checkbox{
+    
+    @Override
     public void check(){
         System.out.println("Windows Checkbox checked");
     }
 }
 
 class MacButton implements Button{
+    
+    @Override
     public void click(){
         System.out.println("Mac Button clicked");
     }
 }
 
 class MacCheckbox implements Checkbox{
+    
+    @Override
     public void check(){
         System.out.println("Mac Checkbox checked");
     }
@@ -39,20 +47,26 @@ interface GUIFactory{
 }
 
 class WinFactory implements GUIFactory{
+    
+    @Override
     public Button createButton(){
         return new WinButton();
     }
     
+    @Override
     public Checkbox createCheckbox(){
         return new WinCheckbox();
     }
 }
 
 class MacFactory implements GUIFactory{
+    
+    @Override
     public Button createButton(){
         return new MacButton();
     }
     
+    @Override
     public Checkbox createCheckbox(){
         return new MacCheckbox();
     }
